@@ -1,0 +1,68 @@
+﻿Build started 12.7.2014 г. 03:42:33 ч..
+     1>Project "C:\Users\Diablo\Desktop\EvoS2\Source\Evo-Servers.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Evo-Servers.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ChatCore.cpp
+         ChatCore.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Diablo\Desktop\EvoS2\Source\Debug\Evolution.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Evolution.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Diablo\Desktop\EvoS2\Source\Debug\Evolution.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Diablo\Desktop\EvoS2\Source\Debug\Evolution.lib" /MACHINE:X86 /DLL Debug\EvoFiles.res
+         Debug\ChaosMachine.obj
+         Debug\Chash.obj
+         Debug\ChatCore.obj
+         Debug\CMuOnline.obj
+         Debug\configs.obj
+         Debug\CQuery.obj
+         Debug\CustomJewels.obj
+         Debug\DllMain.obj
+         Debug\DropItens.obj
+         Debug\Drops.obj
+         Debug\EventItemBag.obj
+         Debug\EventManager.obj
+         Debug\Firewall.obj
+         Debug\Fixs.obj
+         Debug\FortuneWheel.obj
+         Debug\GameServer.obj
+         Debug\Global.obj
+         Debug\GMSystem.obj
+         Debug\GoldenArcher.obj
+         Debug\GuildSystem.obj
+         Debug\HappyHour2.obj
+         Debug\HatcheryEvent.obj
+         Debug\HpMob.obj
+         Debug\Log.obj
+         Debug\MapExplorer.obj
+         Debug\Mapping.obj
+         Debug\MemScript.obj
+         Debug\Move.obj
+         Debug\MSSQL.obj
+         Debug\NewsSystem.obj
+         Debug\NPC.obj
+         Debug\OffTrade.obj
+         Debug\PKGuard.obj
+         Debug\Protocolos.obj
+         Debug\ResetGuard.obj
+         Debug\seguridad.obj
+         Debug\Shops.obj
+         Debug\SQLX.obj
+         Debug\StoneExchanger.obj
+         Debug\struct.obj
+         Debug\Structures.obj
+         Debug\user.obj
+         Debug\Utilidades.obj
+         Debug\VipSystem.obj
+         LINK : C:\Users\Diablo\Desktop\EvoS2\Source\Debug\Evolution.dll not found or not built by the last incremental link; performing full link
+            Creating library C:\Users\Diablo\Desktop\EvoS2\Source\Debug\Evolution.lib and object C:\Users\Diablo\Desktop\EvoS2\Source\Debug\Evolution.exp
+         Evo-Servers.vcxproj -> C:\Users\Diablo\Desktop\EvoS2\Source\Debug\Evolution.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Diablo\Desktop\EvoS2\Source\Debug\Evolution.dll;#2" /manifest Debug\Evolution.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Evo-Servers.unsuccessfulbuild".
+         Touching "Debug\Evo-Servers.lastbuildstate".
+     1>Done Building Project "C:\Users\Diablo\Desktop\EvoS2\Source\Evo-Servers.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.09

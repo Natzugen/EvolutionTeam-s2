@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archives">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archives\Funciones">
+      <UniqueIdentifier>{d0be98ef-66a3-4a6e-8390-b5c8d2428669}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Fixs">
+      <UniqueIdentifier>{bde79c51-35cd-4900-aac9-408a3159d0ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Utilidades">
+      <UniqueIdentifier>{7745abcc-e5b6-412d-a276-e4e399c3edb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\StdAfx">
+      <UniqueIdentifier>{0a52d228-f472-4373-a3a0-03817c633134}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Global">
+      <UniqueIdentifier>{68579256-c08a-4674-886e-90982c1457b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Protocolos">
+      <UniqueIdentifier>{90eec7f2-9510-4284-9739-d260b95d78de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Comandos">
+      <UniqueIdentifier>{01eae1bd-9cd1-452b-81dc-6165a996f74b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\DropItens">
+      <UniqueIdentifier>{8ff49679-e623-4193-b21e-82615e4fbc41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\NewSystem">
+      <UniqueIdentifier>{baf26a9a-8625-418f-ad11-a43d42224733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\items">
+      <UniqueIdentifier>{eb4acd2e-55ed-46f4-8025-67f7b771987a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\user">
+      <UniqueIdentifier>{c869727d-1db6-42bf-b92b-02d4d5de3fe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\struct">
+      <UniqueIdentifier>{a5336cbe-d527-4e68-a2bf-6e23716fabf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\DropSystem">
+      <UniqueIdentifier>{6a985bd7-f380-4b87-8dea-5bb7e7cf3d07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Shops">
+      <UniqueIdentifier>{1b78f29e-4cc8-43de-a879-06e6a0618575}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Seguridad">
+      <UniqueIdentifier>{682fa0a7-d641-4f05-93dd-cc109fb0f890}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\SQL">
+      <UniqueIdentifier>{881cfef3-f926-4609-9f2a-3e0ca4eabfad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\VipSystem">
+      <UniqueIdentifier>{936070eb-0202-4f26-a2b8-da0f24ee497a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\ResetGuard">
+      <UniqueIdentifier>{804d9ab7-c28a-447e-ac52-c98b6c42b45f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\NPC">
+      <UniqueIdentifier>{8ec2a045-9c7c-41f6-ba89-dbe9fbff7a53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Firewall">
+      <UniqueIdentifier>{e5fa5350-d78d-4222-b33e-080890cf2a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\GoldenArcher">
+      <UniqueIdentifier>{43064d6f-e9d2-40e5-bc02-875588f30c6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\FortuneWheel">
+      <UniqueIdentifier>{362e4fa8-5606-45ae-88ff-3f612f9de463}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\GMSystem">
+      <UniqueIdentifier>{950bffbd-0460-46d3-b42f-8bda147675f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\GameServer">
+      <UniqueIdentifier>{50c172f9-78f1-492c-9d67-400839be08df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\ChaosMachine">
+      <UniqueIdentifier>{e2f7b55c-06a0-4aac-bff5-07413d611753}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\CashShop">
+      <UniqueIdentifier>{43a0e9f4-af47-4cc1-bb5a-98f8630efd02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Move">
+      <UniqueIdentifier>{1f2677fe-f7a6-4e53-a278-9a5226d6b6d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Offset">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archive Resource">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archives\PKGuard">
+      <UniqueIdentifier>{30e990ce-6242-4995-a5cb-26fb28fdac43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Mapping">
+      <UniqueIdentifier>{e4fff7ab-b333-4af6-9a15-4016bc486175}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\GuildSystem">
+      <UniqueIdentifier>{ff128536-c32a-4ae4-adb3-b9f9bbf4db73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\OffTrade">
+      <UniqueIdentifier>{73eb9412-faa4-462f-908f-ac3bb37d0b27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\DropEvent">
+      <UniqueIdentifier>{162a04ac-cf61-4d25-89d5-27cf42b920b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\Stone Exchanger">
+      <UniqueIdentifier>{3b027dd6-310f-485c-94a1-c5d3b8841685}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\CustomJewels">
+      <UniqueIdentifier>{26ed002d-8661-44d0-9d78-9cc05aaf7de9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\HatcheryEvent">
+      <UniqueIdentifier>{03229954-34c0-4573-abcf-e9c7f6c311fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archives\HpMob">
+      <UniqueIdentifier>{af397124-a1ce-40c0-a4af-5a06647f1810}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DllMain.cpp">
+      <Filter>Archives</Filter>
+    </ClCompile>
+    <ClCompile Include="configs.cpp">
+      <Filter>Archives\Funciones</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilidades.cpp">
+      <Filter>Archives\Utilidades</Filter>
+    </ClCompile>
+    <ClCompile Include="Fixs.cpp">
+      <Filter>Archives\Fixs</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>Archives\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="GameServer.cpp">
+      <Filter>Archives\GameServer</Filter>
+    </ClCompile>
+    <ClCompile Include="Protocolos.cpp">
+      <Filter>Archives\Protocolos</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatCore.cpp">
+      <Filter>Archives\Comandos</Filter>
+    </ClCompile>
+    <ClCompile Include="DropItens.cpp">
+      <Filter>Archives\DropItens</Filter>
+    </ClCompile>
+    <ClCompile Include="NewsSystem.cpp">
+      <Filter>Archives\NewSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="struct.cpp">
+      <Filter>Archives\struct</Filter>
+    </ClCompile>
+    <ClCompile Include="Drops.cpp">
+      <Filter>Archives\DropSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Shops.cpp">
+      <Filter>Archives\Shops</Filter>
+    </ClCompile>
+    <ClCompile Include="MemScript.cpp">
+      <Filter>Archives\Shops</Filter>
+    </ClCompile>
+    <ClCompile Include="seguridad.cpp">
+      <Filter>Archives\Seguridad</Filter>
+    </ClCompile>
+    <ClCompile Include="CMuOnline.cpp">
+      <Filter>Archives\SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="CQuery.cpp">
+      <Filter>Archives\SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="VipSystem.cpp">
+      <Filter>Archives\VipSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ResetGuard.cpp">
+      <Filter>Archives\ResetGuard</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC.cpp">
+      <Filter>Archives\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Firewall.cpp">
+      <Filter>Archives\Firewall</Filter>
+    </ClCompile>
+    <ClCompile Include="GoldenArcher.cpp">
+      <Filter>Archives\GoldenArcher</Filter>
+    </ClCompile>
+    <ClCompile Include="FortuneWheel.cpp">
+      <Filter>Archives\FortuneWheel</Filter>
+    </ClCompile>
+    <ClCompile Include="GMSystem.cpp">
+      <Filter>Archives\GMSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ChaosMachine.cpp">
+      <Filter>Archives\ChaosMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="Chash.cpp">
+      <Filter>Archives\CashShop</Filter>
+    </ClCompile>
+    <ClCompile Include="Move.cpp">
+      <Filter>Archives\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="HappyHour2.cpp">
+      <Filter>Archives\Funciones</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Archives\Funciones</Filter>
+    </ClCompile>
+    <ClCompile Include="MapExplorer.cpp">
+      <Filter>Archives\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="PKGuard.cpp">
+      <Filter>Archives\PKGuard</Filter>
+    </ClCompile>
+    <ClCompile Include="user.cpp">
+      <Filter>Archives\user</Filter>
+    </ClCompile>
+    <ClCompile Include="Mapping.cpp">
+      <Filter>Archives\Mapping</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Archives\Mapping</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildSystem.cpp">
+      <Filter>Archives\GuildSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="SQLX.cpp">
+      <Filter>Archives\SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="StoneExchanger.cpp">
+      <Filter>Archives\Stone Exchanger</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomJewels.cpp">
+      <Filter>Archives\CustomJewels</Filter>
+    </ClCompile>
+    <ClCompile Include="HatcheryEvent.cpp">
+      <Filter>Archives\HatcheryEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="Structures.cpp">
+      <Filter>Archives\HatcheryEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="EventItemBag.cpp">
+      <Filter>Archives\HatcheryEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="OffTrade.cpp">
+      <Filter>Archives\OffTrade</Filter>
+    </ClCompile>
+    <ClCompile Include="MSSQL.cpp">
+      <Filter>Archives\SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="HpMob.cpp">
+      <Filter>Archives\HpMob</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Offset.h">
+      <Filter>Offset</Filter>
+    </ClInclude>
+    <ClInclude Include="configs.h">
+      <Filter>Archives\Funciones</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilidades.h">
+      <Filter>Archives\Utilidades</Filter>
+    </ClInclude>
+    <ClInclude Include="Fixs.h">
+      <Filter>Archives\Fixs</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Archives\StdAfx</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Archives\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="GameServer.h">
+      <Filter>Archives\GameServer</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocolos.h">
+      <Filter>Archives\Protocolos</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatCore.h">
+      <Filter>Archives\Comandos</Filter>
+    </ClInclude>
+    <ClInclude Include="DropItens.h">
+      <Filter>Archives\DropItens</Filter>
+    </ClInclude>
+    <ClInclude Include="NewsSystem.h">
+      <Filter>Archives\NewSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="items.h">
+      <Filter>Archives\items</Filter>
+    </ClInclude>
+    <ClInclude Include="user.h">
+      <Filter>Archives\user</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>Archives\struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Drops.h">
+      <Filter>Archives\DropSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Shops.h">
+      <Filter>Archives\Shops</Filter>
+    </ClInclude>
+    <ClInclude Include="MemScript.h">
+      <Filter>Archives\Shops</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadScript.h">
+      <Filter>Archives\Shops</Filter>
+    </ClInclude>
+    <ClInclude Include="seguridad.h">
+      <Filter>Archives\Seguridad</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Offset</Filter>
+    </ClInclude>
+    <ClInclude Include="CMuOnline.h">
+      <Filter>Archives\SQL</Filter>
+    </ClInclude>
+    <ClInclude Include="CQuery.h">
+      <Filter>Archives\SQL</Filter>
+    </ClInclude>
+    <ClInclude Include="VipSystem.h">
+      <Filter>Archives\VipSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ResetGuard.h">
+      <Filter>Archives\ResetGuard</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC.h">
+      <Filter>Archives\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="Firewall.h">
+      <Filter>Archives\Firewall</Filter>
+    </ClInclude>
+    <ClInclude Include="GoldenArcher.h">
+      <Filter>Archives\GoldenArcher</Filter>
+    </ClInclude>
+    <ClInclude Include="FortuneWheel.h">
+      <Filter>Archives\FortuneWheel</Filter>
+    </ClInclude>
+    <ClInclude Include="GMSystem.h">
+      <Filter>Archives\GMSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ChaosMachine.h">
+      <Filter>Archives\ChaosMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="Chash.h">
+      <Filter>Archives\CashShop</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>Archives\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="HappyHour2.h">
+      <Filter>Archives\Funciones</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>Archives\Funciones</Filter>
+    </ClInclude>
+    <ClInclude Include="MapExplorer.h">
+      <Filter>Archives\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="PKGuard.h">
+      <Filter>Archives\PKGuard</Filter>
+    </ClInclude>
+    <ClInclude Include="Mapping.h">
+      <Filter>Archives\Mapping</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Archives\Mapping</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildSystem.h">
+      <Filter>Archives\GuildSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="SQLX.h">
+      <Filter>Archives\SQL</Filter>
+    </ClInclude>
+    <ClInclude Include="StoneExchanger.h">
+      <Filter>Archives\Stone Exchanger</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomJewels.h">
+      <Filter>Archives\CustomJewels</Filter>
+    </ClInclude>
+    <ClInclude Include="HatcheryEvent.h">
+      <Filter>Archives\HatcheryEvent</Filter>
+    </ClInclude>
+    <ClInclude Include="Structures.h">
+      <Filter>Archives\HatcheryEvent</Filter>
+    </ClInclude>
+    <ClInclude Include="EventItemBag.h">
+      <Filter>Archives\HatcheryEvent</Filter>
+    </ClInclude>
+    <ClInclude Include="OffTrade.h">
+      <Filter>Archives\OffTrade</Filter>
+    </ClInclude>
+    <ClInclude Include="MSSQL.h">
+      <Filter>Archives\SQL</Filter>
+    </ClInclude>
+    <ClInclude Include="HpMob.h">
+      <Filter>Archives\HpMob</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="EvoFiles.rc">
+      <Filter>Archive Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
